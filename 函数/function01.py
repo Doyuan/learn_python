@@ -9,7 +9,7 @@ def say_hello():
 say_hello()
 
 
-# 声明一个函数 带有参数
+# 声明一个函数 带有参数 可以有默认参数
 def say_goodbye(name = 'Mary'):
     print("Goodbye " + name)
 
